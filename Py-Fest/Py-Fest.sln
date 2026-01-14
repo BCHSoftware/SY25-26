@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py-Fest", "Py-Fest\Py-Fest.pyproj", "{89F392AC-FCC2-4B1C-90B7-A38662D14FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F392AC-FCC2-4B1C-90B7-A38662D14FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F392AC-FCC2-4B1C-90B7-A38662D14FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A3A52B-E164-4793-B59D-E9671A4E5D43}
+	EndGlobalSection
+EndGlobal
